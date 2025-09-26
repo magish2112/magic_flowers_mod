@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="magicflowers"
+version="1.0.0"
+displayName="Magic Flowers"
+updateJSONURL=""
+displayURL=""
+logoFile=""
+author="Твой ник"
+description='''
+Добавляет в игру волшебные цветы с эффектами и букет удачи.
+''' 

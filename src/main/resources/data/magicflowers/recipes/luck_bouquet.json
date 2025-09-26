@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "magicflowers:blue_lotus" },
+    { "item": "magicflowers:fire_poppy" },
+    { "item": "magicflowers:mist_lavender" },
+    { "item": "magicflowers:golden_tulip" }
+  ],
+  "result": {
+    "item": "magicflowers:luck_bouquet",
+    "count": 1
+  }
+} 
