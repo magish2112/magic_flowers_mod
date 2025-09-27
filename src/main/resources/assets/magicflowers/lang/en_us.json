@@ -3,5 +3,25 @@
   "item.magicflowers.fire_poppy": "Fire Poppy",
   "item.magicflowers.mist_lavender": "Mist Lavender",
   "item.magicflowers.golden_tulip": "Golden Tulip",
-  "item.magicflowers.luck_bouquet": "Luck Bouquet"
+  "item.magicflowers.crystal_rose": "Crystal Rose",
+  "item.magicflowers.shadow_orchid": "Shadow Orchid",
+  "item.magicflowers.storm_lily": "Storm Lily",
+  "item.magicflowers.sunflower": "Sunflower",
+  "item.magicflowers.ice_carnation": "Ice Carnation",
+  "item.magicflowers.luck_bouquet": "Luck Bouquet",
+  "item.magicflowers.power_bouquet": "Power Bouquet",
+
+  "itemGroup.magicflowers": "Magic Flowers",
+
+  "tooltip.magicflowers.blue_lotus": "Grants movement speed",
+  "tooltip.magicflowers.fire_poppy": "Provides fire resistance",
+  "tooltip.magicflowers.mist_lavender": "Makes you invisible",
+  "tooltip.magicflowers.golden_tulip": "Brings good luck",
+  "tooltip.magicflowers.crystal_rose": "Restores health (II)",
+  "tooltip.magicflowers.shadow_orchid": "Allows seeing in darkness",
+  "tooltip.magicflowers.storm_lily": "Increases jump height (III)",
+  "tooltip.magicflowers.sunflower": "Makes you glow",
+  "tooltip.magicflowers.ice_carnation": "Increases defense",
+  "tooltip.magicflowers.luck_bouquet": "Combo of all basic effects",
+  "tooltip.magicflowers.power_bouquet": "Maximum power and protection!"
 } 

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:sunflower" },
+    { "item": "minecraft:glowstone" },
+    { "item": "minecraft:gold_ingot" }
+  ],
+  "result": {
+    "item": "magicflowers:sunflower",
+    "count": 1
+  }
+}

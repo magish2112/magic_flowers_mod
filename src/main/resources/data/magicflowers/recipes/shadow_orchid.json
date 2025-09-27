@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:blue_orchid" },
+    { "item": "minecraft:obsidian" },
+    { "item": "minecraft:ink_sac" }
+  ],
+  "result": {
+    "item": "magicflowers:shadow_orchid",
+    "count": 1
+  }
+}

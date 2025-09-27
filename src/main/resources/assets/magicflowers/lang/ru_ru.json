@@ -3,5 +3,25 @@
   "item.magicflowers.fire_poppy": "Огненный мак",
   "item.magicflowers.mist_lavender": "Туманная лаванда",
   "item.magicflowers.golden_tulip": "Золотой тюльпан",
-  "item.magicflowers.luck_bouquet": "Букет удачи"
+  "item.magicflowers.crystal_rose": "Хрустальная роза",
+  "item.magicflowers.shadow_orchid": "Теневая орхидея",
+  "item.magicflowers.storm_lily": "Грозовая лилия",
+  "item.magicflowers.sunflower": "Солнечный цветок",
+  "item.magicflowers.ice_carnation": "Ледяная гвоздика",
+  "item.magicflowers.luck_bouquet": "Букет удачи",
+  "item.magicflowers.power_bouquet": "Букет силы",
+
+  "itemGroup.magicflowers": "Волшебные цветы",
+
+  "tooltip.magicflowers.blue_lotus": "Дарует скорость передвижения",
+  "tooltip.magicflowers.fire_poppy": "Защищает от огня",
+  "tooltip.magicflowers.mist_lavender": "Делает невидимым",
+  "tooltip.magicflowers.golden_tulip": "Приносит удачу",
+  "tooltip.magicflowers.crystal_rose": "Восстанавливает здоровье (II)",
+  "tooltip.magicflowers.shadow_orchid": "Позволяет видеть в темноте",
+  "tooltip.magicflowers.storm_lily": "Увеличивает высоту прыжка (III)",
+  "tooltip.magicflowers.sunflower": "Заставляет светиться",
+  "tooltip.magicflowers.ice_carnation": "Повышает защиту",
+  "tooltip.magicflowers.luck_bouquet": "Комбо всех основных эффектов",
+  "tooltip.magicflowers.power_bouquet": "Максимальная сила и защита!"
 } 

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:cornflower" },
+    { "item": "minecraft:ice" },
+    { "item": "minecraft:iron_ingot" }
+  ],
+  "result": {
+    "item": "magicflowers:ice_carnation",
+    "count": 1
+  }
+}
